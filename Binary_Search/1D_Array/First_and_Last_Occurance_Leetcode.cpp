@@ -10,10 +10,6 @@ Approach:
 4. For finding the last occurrence, if the element at the middle index is equal to the target, update the index of the last occurrence and search in the right half. If the element at the middle index is less than the target, search in the right half. If it is greater than the target, search in the left half.
 5. Repeat steps 2-4 until the pointers cross each other.
 
-
-
-
-
 Time Complexity: O(log n) in the worst and average cases, as we are dividing the search space in half at each step. In the best case (when the array is already sorted), the time complexity is O(log n).
 Space Complexity: O(1) as we are using only a constant amount of extra space.
 */

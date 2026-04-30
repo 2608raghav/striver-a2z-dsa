@@ -1,5 +1,4 @@
 /*
-
 Problem: Delete all occurrences of a key in a doubly linked list
 Platform: Leetcode
 Topic: Linked List

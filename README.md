@@ -1,6 +1,6 @@
 # Striver A2Z DSA Sheet Progress
 
-Total Problems Solved: 186
+Total Problems Solved: 188
 
 ## Topics Covered:
 - Arrays

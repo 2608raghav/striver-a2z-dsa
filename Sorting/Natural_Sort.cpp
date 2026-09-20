@@ -34,7 +34,7 @@ class Solution {
                     j++;
                 }
                 if (numA != numB) {
-                    return numA < numB; // Compare as integers
+                    return numA < numB;
                 }
             } else if (!isdigit(a[i]) && !isdigit(b[j])) {
                 if (a[i] != b[j]) {
